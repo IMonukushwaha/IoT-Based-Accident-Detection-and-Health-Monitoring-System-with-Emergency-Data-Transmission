@@ -159,4 +159,5 @@ o Handles switching between the MPU6050 (channel 0) and MAX30100 (channel
 # Result on Blynk Iot Cloud
 <img width="1920" height="1080" alt="Screenshot (259)" src="https://github.com/user-attachments/assets/4050d421-17f0-4577-bb7c-3f4f8da10738" />
 when locating the co-ordinates on the google map, we get the location of the setup
+<img width="1831" height="980" alt="Screenshot (266)" src="https://github.com/user-attachments/assets/397760e0-6f8a-4bf3-a709-9394adfebe3a" />
 
